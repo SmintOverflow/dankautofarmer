@@ -11,4 +11,4 @@ In Order To Use This Script You Need Python 3 Installed
 
 2. Click On The Message Box And Done, The Script Will Start Typing pls beg, pls daily, pls pm, pls fish, etc
 
-important note : TO STOP THE SCRIPT , DO CONTROL+C IN TERMINAL / CMD WINDOW
+important note : TO STOP THE SCRIPT , DO CONTROL+C IN TERMINAL / CMD WINDOW OR CMD+C ON A MAC
